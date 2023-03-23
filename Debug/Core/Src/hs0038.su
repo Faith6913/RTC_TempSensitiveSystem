@@ -1,0 +1,6 @@
+hs0038.c:14:6:Remote_Init	24	static
+hs0038.c:38:6:HAL_TIM_IC_MspInit	48	static
+hs0038.c:67:6:TIM3_IRQHandler	8	static
+hs0038.c:73:6:HAL_TIM_PeriodElapsedCallback	16	static
+hs0038.c:92:6:HAL_TIM_IC_CaptureCallback	16	static
+hs0038.c:140:9:Remote_Scan	16	static

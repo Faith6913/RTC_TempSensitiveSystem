@@ -1,0 +1,5 @@
+dht11.c:19:13:delay_us	16	static
+dht11.c:32:13:DHT11_Mode_OUT_PP	32	static
+dht11.c:46:13:DHT11_Mode_IN_NP	32	static
+dht11.c:60:9:DHT11_ReadByte	16	static
+dht11.c:87:9:DHT11_ReadData	16	static

@@ -1,0 +1,8 @@
+digitron.c:47:6:digitron_dynamic_display	16	static
+digitron.c:64:6:digitron_put_buf	16	static
+digitron.c:75:6:digitron_put_dot	24	static
+digitron.c:93:6:digitron_put_data	24	static
+digitron.c:112:13:digitron_com	24	static
+digitron.c:125:13:digitron_data	24	static
+digitron.c:139:13:hc595_shcp	8	static
+digitron.c:150:13:hc595_stcp	8	static
